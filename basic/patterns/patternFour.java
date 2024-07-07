@@ -1,5 +1,13 @@
 public class patternFour{
 	public static void main(String[] args) {
-		System.out.println("Hello nigga");
+		for (int i = 1; i <=5 ; i++) {
+			for (int j = 0;j <i ; j++) {
+				System.out.print(i);
+
+				
+			}
+			System.out.println();
+			
+		}
 	}
 }
